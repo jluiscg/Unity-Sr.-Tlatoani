@@ -1,0 +1,18 @@
+usted,0
+su madre,1
+su tia,1
+un baño publico,0
+un abogadete,2
+un desnutrido elefante,0
+su abuelo,1
+un aborto,4
+un adefesio,4
+su casa,0
+su estilo,4
+su sombrero,4
+su padre,1
+chabelo,5
+la caquita del whatsapp,0
+un perro envenenado,0
+el mochamanos,0
+la mafia del poder,7
