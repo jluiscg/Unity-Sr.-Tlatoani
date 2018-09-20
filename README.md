@@ -4,3 +4,7 @@ Adaptación al español del juego "Oh Sir!... The Insult Simulator" con temátic
 Juego hecho en Unity 2017.3.1f1 personal edition. Scripts desarrollados en C#. El juego tiene 3 modos para jugar: Un jugador donde se juega econtra de la inteligencia artificial, multijugador local y multijugador en red con una conexión peer to peer.
 
 Game made with Unity 2017.3.1f1 personal edition. Scripts are in C#. This games has 3 modes: single player where you play against an AI, Local multiplayer and online multiplayer with a peer to peer connection.
+
+# Screenshots
+![Screenshot](ss1.png)
+![Screenshot](ss2.png)
